@@ -48,6 +48,7 @@
         "./scientific-skills/matchms",
         "./scientific-skills/matplotlib",
         "./scientific-skills/medchem",
+        "./scientific-skills/mirna-seq",
         "./scientific-skills/modal",
         "./scientific-skills/molfeat",
         "./scientific-skills/neurokit2",
